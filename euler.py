@@ -15,5 +15,5 @@ def factorial(n):
 
 
 def e_lineal(n):
-    # Implemente esta función
+    # Implemente esa función
     return 0
