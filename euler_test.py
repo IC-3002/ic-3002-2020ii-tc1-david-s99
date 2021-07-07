@@ -58,4 +58,4 @@ class PruebasEuler(unittest.TestCase):
 
         if not isinstance(best, big_o.complexities.Linear):
             warnings.warn(
-                f'Complejidad esperada Lineal, complejidad estimada {best}')
+f'Complejidad esperada Lineal, complejidad estimada {best}')
